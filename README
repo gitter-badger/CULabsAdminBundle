@@ -121,3 +121,5 @@ Redefinir el formulario de login
 Si usa FOSUserBundle puede sobrescribir el formulario de login creando la siguiente plantilla "app/Resources/FOSUserBundle/views/Security/login.html.twig" con el siguiente contenido.
 
     {% extends "CULabsAdminBundle:Security:login.html.twig" %}
+
+Join the chat at https://gitter.im/aprezcuba24/CULabsAdminBundle
